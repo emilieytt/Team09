@@ -23,28 +23,39 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(459, 312)
+        Me.Button1.Location = New System.Drawing.Point(393, 269)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(329, 129)
+        Me.Button1.Size = New System.Drawing.Size(282, 111)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
         '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(393, 176)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(100, 31)
+        Me.TextBox1.TabIndex = 1
+        '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(14.0!, 29.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1100, 610)
+        Me.ClientSize = New System.Drawing.Size(943, 526)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox1 As TextBox
 End Class
