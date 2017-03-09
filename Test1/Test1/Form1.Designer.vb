@@ -22,48 +22,32 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.Button1 = New System.Windows.Forms.Button()
-<<<<<<< HEAD
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-=======
-        Me.ColorDialog1 = New System.Windows.Forms.ColorDialog()
->>>>>>> origin/master
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
-        'Button1
+        'PictureBox1
         '
-        Me.Button1.Location = New System.Drawing.Point(393, 269)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(282, 111)
-        Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Location = New System.Drawing.Point(393, 176)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 31)
-        Me.TextBox1.TabIndex = 1
+        Me.PictureBox1.Location = New System.Drawing.Point(128, 24)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(197, 136)
+        Me.PictureBox1.TabIndex = 0
+        Me.PictureBox1.TabStop = False
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(943, 526)
-        Me.Controls.Add(Me.TextBox1)
-        Me.Controls.Add(Me.Button1)
+        Me.ClientSize = New System.Drawing.Size(469, 357)
+        Me.Controls.Add(Me.PictureBox1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
-        Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Button1 As Button
 <<<<<<< HEAD
     Friend WithEvents TextBox1 As TextBox
-=======
+    Friend WithEvents PictureBox1 As PictureBox =======
     Friend WithEvents ColorDialog1 As ColorDialog
 >>>>>>> origin/master
 End Class
