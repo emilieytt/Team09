@@ -4,3 +4,13 @@ Z:\Documents\Team09\Test1\Test1\bin\Debug\Test1.exe.config
 =======
 \\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\bin\Debug\Test1.exe.config
 >>>>>>> origin/master
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.Form1.resources
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.Resources.resources
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+Z:\Documents\Team09\Test1\Test1\bin\Debug\Test1.exe
+Z:\Documents\Team09\Test1\Test1\bin\Debug\Test1.pdb
+Z:\Documents\Team09\Test1\Test1\bin\Debug\Test1.xml
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.exe
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.xml
+Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.pdb
