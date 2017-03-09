@@ -14,3 +14,13 @@ Z:\Documents\Team09\Test1\Test1\bin\Debug\Test1.xml
 Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.exe
 Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.xml
 Z:\Documents\Team09\Test1\Test1\obj\Debug\Test1.pdb
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.exe
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.xml
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.pdb
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\bin\Debug\Test1.exe
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\bin\Debug\Test1.pdb
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\bin\Debug\Test1.xml
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.Form1.resources
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.Resources.resources
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
