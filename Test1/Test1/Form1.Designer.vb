@@ -23,7 +23,11 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
+<<<<<<< HEAD
         Me.TextBox1 = New System.Windows.Forms.TextBox()
+=======
+        Me.ColorDialog1 = New System.Windows.Forms.ColorDialog()
+>>>>>>> origin/master
         Me.SuspendLayout()
         '
         'Button1
@@ -57,5 +61,9 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents Button1 As Button
+<<<<<<< HEAD
     Friend WithEvents TextBox1 As TextBox
+=======
+    Friend WithEvents ColorDialog1 As ColorDialog
+>>>>>>> origin/master
 End Class
