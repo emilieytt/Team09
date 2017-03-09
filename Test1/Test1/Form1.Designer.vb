@@ -42,32 +42,39 @@ Partial Class Form1
         Me.Button2.BackColor = System.Drawing.SystemColors.ControlDark
         Me.Button2.Location = New System.Drawing.Point(81, 211)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.Size = New System.Drawing.Size(134, 61)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Knapp"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
         '
+<<<<<<< HEAD
+        Me.Button3.BackColor = System.Drawing.SystemColors.ControlText
         Me.Button3.Location = New System.Drawing.Point(260, 210)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.Size = New System.Drawing.Size(75, 85)
+=======
+        Me.Button3.Location = New System.Drawing.Point(266, 211)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(141, 61)
+>>>>>>> origin/master
         Me.Button3.TabIndex = 2
         Me.Button3.Text = "Knapp"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.UseVisualStyleBackColor = False
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(388, 334)
+        Me.Label1.Location = New System.Drawing.Point(174, 334)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(41, 25)
+        Me.Label1.Size = New System.Drawing.Size(21, 13)
         Me.Label1.TabIndex = 3
         Me.Label1.Text = "hei"
         '
         'Form1
         '
-        Me.ClientSize = New System.Drawing.Size(596, 418)
+        Me.ClientSize = New System.Drawing.Size(634, 424)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -87,4 +94,15 @@ Partial Class Form1
     Friend WithEvents ColorDialog1 As ColorDialog
     Friend WithEvents Button3 As Button
     Friend WithEvents Label1 As Label
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+
+    End Sub
+<<<<<<< HEAD
+=======
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+>>>>>>> origin/master
 End Class
