@@ -23,6 +23,7 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Button2 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -34,9 +35,20 @@ Partial Class Form1
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.SystemColors.ControlDark
+        Me.Button2.Location = New System.Drawing.Point(81, 211)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 1
+        Me.Button2.Text = "Button2"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.ClientSize = New System.Drawing.Size(469, 357)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "Form1"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -47,6 +59,7 @@ Partial Class Form1
     Friend WithEvents Button1 As Button
 <<<<<<< HEAD
     Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Button2 As Button
     Friend WithEvents PictureBox1 As PictureBox =======
     Friend WithEvents ColorDialog1 As ColorDialog
 >>>>>>> origin/master
