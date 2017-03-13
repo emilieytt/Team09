@@ -1,0 +1,18 @@
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\Blod1.0.exe.config
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\Blod1.0.exe
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\Blod1.0.pdb
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\Blod1.0.xml
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\MySql.Data.dll
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\bin\Debug\MySql.Data.xml
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1._0.Form1.resources
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1._0.Resources.resources
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1.0.exe
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1.0.xml
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1.0.pdb
+C:\Users\Bruker\AppData\Local\Temporary Projects\Blod1.0\obj\Debug\Blod1._0.Form2.resources
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\bin\Debug\Blod1.0.exe.config
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
