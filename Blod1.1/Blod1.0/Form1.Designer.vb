@@ -44,9 +44,9 @@ Partial Class Form1
         Me.Button1.BackColor = System.Drawing.Color.Red
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(501, 438)
+        Me.Button1.Location = New System.Drawing.Point(504, 435)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(158, 64)
+        Me.Button1.Size = New System.Drawing.Size(155, 67)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Logg inn"
         Me.Button1.UseVisualStyleBackColor = False
@@ -56,9 +56,9 @@ Partial Class Form1
         Me.Button2.BackColor = System.Drawing.Color.Red
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.ForeColor = System.Drawing.Color.White
-        Me.Button2.Location = New System.Drawing.Point(676, 438)
+        Me.Button2.Location = New System.Drawing.Point(676, 435)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(142, 64)
+        Me.Button2.Size = New System.Drawing.Size(146, 67)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Nullstill"
         Me.Button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
