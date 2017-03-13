@@ -35,7 +35,6 @@ Partial Class Form1
         Me.RestartToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
         Me.LinkLabel2 = New System.Windows.Forms.LinkLabel()
-        Me.Button3 = New System.Windows.Forms.Button()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
@@ -113,15 +112,10 @@ Partial Class Form1
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(32, 32)
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AvsluttToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-<<<<<<< HEAD
-        Me.MenuStrip1.Size = New System.Drawing.Size(886, 24)
-=======
         Me.MenuStrip1.Size = New System.Drawing.Size(928, 24)
->>>>>>> origin/master
         Me.MenuStrip1.TabIndex = 7
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -164,25 +158,11 @@ Partial Class Form1
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Text = "Glemt passord"
         '
-        'Button3
-        '
-        Me.Button3.Location = New System.Drawing.Point(221, 194)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 23)
-        Me.Button3.TabIndex = 10
-        Me.Button3.Text = "Test"
-        Me.Button3.UseVisualStyleBackColor = True
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-<<<<<<< HEAD
-        Me.ClientSize = New System.Drawing.Size(886, 535)
-=======
         Me.ClientSize = New System.Drawing.Size(928, 588)
-        Me.Controls.Add(Me.Button3)
->>>>>>> origin/master
         Me.Controls.Add(Me.LinkLabel2)
         Me.Controls.Add(Me.LinkLabel1)
         Me.Controls.Add(Me.PictureBox1)
@@ -218,5 +198,4 @@ Partial Class Form1
     Friend WithEvents RestartToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents LinkLabel1 As LinkLabel
     Friend WithEvents LinkLabel2 As LinkLabel
-    Friend WithEvents Button3 As Button
 End Class

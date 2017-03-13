@@ -16,24 +16,3 @@ C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\bin\Debug\
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.exe.config
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.exe.config
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
-<<<<<<< HEAD
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.exe
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.pdb
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.xml
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\MySql.Data.dll
-Z:\Documents\Team09\Blod1.0\Blod1.0\bin\Debug\MySql.Data.xml
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1._0.Form1.resources
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1._0.Form2.resources
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1._0.Resources.resources
-Z:\Documents\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
-=======
->>>>>>> origin/master
