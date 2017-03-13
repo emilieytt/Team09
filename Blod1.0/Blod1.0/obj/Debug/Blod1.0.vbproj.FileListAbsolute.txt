@@ -16,3 +16,7 @@ C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\bin\Debug\
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\bin\Debug\Blod1.0.exe.config
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
+\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
