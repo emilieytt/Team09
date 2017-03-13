@@ -106,7 +106,7 @@ Partial Class Form1
         Me.PictureBox1.Image = Global.Blod1._0.My.Resources.Resources.Blod
         Me.PictureBox1.Location = New System.Drawing.Point(443, 64)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(473, 262)
+        Me.PictureBox1.Size = New System.Drawing.Size(485, 262)
         Me.PictureBox1.TabIndex = 6
         Me.PictureBox1.TabStop = False
         '
@@ -141,9 +141,10 @@ Partial Class Form1
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
+        Me.LinkLabel1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LinkLabel1.Location = New System.Drawing.Point(501, 509)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(95, 13)
+        Me.LinkLabel1.Size = New System.Drawing.Size(128, 17)
         Me.LinkLabel1.TabIndex = 8
         Me.LinkLabel1.TabStop = True
         Me.LinkLabel1.Text = "Registrer blodgiver"
@@ -151,9 +152,10 @@ Partial Class Form1
         'LinkLabel2
         '
         Me.LinkLabel2.AutoSize = True
+        Me.LinkLabel2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LinkLabel2.Location = New System.Drawing.Point(683, 509)
         Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(74, 13)
+        Me.LinkLabel2.Size = New System.Drawing.Size(100, 17)
         Me.LinkLabel2.TabIndex = 9
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Text = "Glemt passord"
