@@ -11,10 +11,11 @@ Public Class Form1
             tilkobling.Open()
             MsgBox("Serveren er tilkoblet.")
 
+            Dim brukernavn As String = TextBox1.Text
+            Dim passord As String = TextBox2.Text
             Dim sql As New MySqlCommand("SELECT person_nr, passord FROM Bruker", tilkobling)
             Dim da As New MySqlDataAdapter
-
-
+            If brukernavn Then
         Catch feilmelding As MySqlException
             MsgBox("Feil ved tilkobling til databasen: " & feilmelding.Message)
         Finally
@@ -38,6 +39,7 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Close()
+        TextBox1.Text = ""
+        TextBox2.Text = ""
     End Sub
 End Class
