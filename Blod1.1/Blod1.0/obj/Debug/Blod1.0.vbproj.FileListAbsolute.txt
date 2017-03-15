@@ -16,34 +16,18 @@ C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\bin\Debug\
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.exe
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.xml
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.0\Blod1.0\obj\Debug\Blod1.0.pdb
-<<<<<<< HEAD
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe.config
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.exe
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.xml
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
-=======
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe.config
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.exe
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.xml
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
->>>>>>> origin/master
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.pdb
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.xml
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.dll
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.xml
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form1.resources
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form2.resources
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
-\\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.pdb
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.xml
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.dll
-Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.xml
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form1.resources
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form2.resources
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
-Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe.config
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.exe
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.xml
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\Blod1.0.pdb
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\Blod1.0.xml
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\MySql.Data.dll
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\bin\Debug\MySql.Data.xml
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form1.resources
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form2.resources
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
+C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form3.resources
