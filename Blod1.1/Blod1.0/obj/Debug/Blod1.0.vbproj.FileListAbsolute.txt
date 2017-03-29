@@ -31,3 +31,7 @@ C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
 C:\Users\Bruker\Documents\Visual Studio 2015\Projects\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form3.resources
+Z:\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe.config
+Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.exe
+Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.xml
+Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
