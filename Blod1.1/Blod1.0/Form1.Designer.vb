@@ -44,9 +44,9 @@ Partial Class Form1
         Me.Button1.BackColor = System.Drawing.Color.Red
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(504, 435)
+        Me.Button1.Location = New System.Drawing.Point(501, 438)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(155, 67)
+        Me.Button1.Size = New System.Drawing.Size(158, 64)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Logg inn"
         Me.Button1.UseVisualStyleBackColor = False
@@ -56,9 +56,9 @@ Partial Class Form1
         Me.Button2.BackColor = System.Drawing.Color.Red
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.ForeColor = System.Drawing.Color.White
-        Me.Button2.Location = New System.Drawing.Point(676, 435)
+        Me.Button2.Location = New System.Drawing.Point(676, 438)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(146, 67)
+        Me.Button2.Size = New System.Drawing.Size(142, 64)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Nullstill"
         Me.Button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText
@@ -106,7 +106,7 @@ Partial Class Form1
         Me.PictureBox1.Image = Global.Blod1._0.My.Resources.Resources.Blod
         Me.PictureBox1.Location = New System.Drawing.Point(443, 64)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(485, 262)
+        Me.PictureBox1.Size = New System.Drawing.Size(473, 262)
         Me.PictureBox1.TabIndex = 6
         Me.PictureBox1.TabStop = False
         '
@@ -121,7 +121,7 @@ Partial Class Form1
         '
         'AvsluttToolStripMenuItem
         '
-        Me.AvsluttToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AvsluttToolStripMenuItem1, Me.RestartToolStripMenuItem})
+        Me.AvsluttToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RestartToolStripMenuItem, Me.AvsluttToolStripMenuItem1})
         Me.AvsluttToolStripMenuItem.Name = "AvsluttToolStripMenuItem"
         Me.AvsluttToolStripMenuItem.Size = New System.Drawing.Size(37, 20)
         Me.AvsluttToolStripMenuItem.Text = "File"
@@ -129,22 +129,21 @@ Partial Class Form1
         'AvsluttToolStripMenuItem1
         '
         Me.AvsluttToolStripMenuItem1.Name = "AvsluttToolStripMenuItem1"
-        Me.AvsluttToolStripMenuItem1.Size = New System.Drawing.Size(111, 22)
+        Me.AvsluttToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
         Me.AvsluttToolStripMenuItem1.Text = "Avslutt"
         '
         'RestartToolStripMenuItem
         '
         Me.RestartToolStripMenuItem.Name = "RestartToolStripMenuItem"
-        Me.RestartToolStripMenuItem.Size = New System.Drawing.Size(111, 22)
+        Me.RestartToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.RestartToolStripMenuItem.Text = "Restart"
         '
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LinkLabel1.Location = New System.Drawing.Point(501, 509)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(128, 17)
+        Me.LinkLabel1.Size = New System.Drawing.Size(95, 13)
         Me.LinkLabel1.TabIndex = 8
         Me.LinkLabel1.TabStop = True
         Me.LinkLabel1.Text = "Registrer blodgiver"
@@ -152,10 +151,9 @@ Partial Class Form1
         'LinkLabel2
         '
         Me.LinkLabel2.AutoSize = True
-        Me.LinkLabel2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LinkLabel2.Location = New System.Drawing.Point(683, 509)
         Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(100, 17)
+        Me.LinkLabel2.Size = New System.Drawing.Size(74, 13)
         Me.LinkLabel2.TabIndex = 9
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Text = "Glemt passord"
