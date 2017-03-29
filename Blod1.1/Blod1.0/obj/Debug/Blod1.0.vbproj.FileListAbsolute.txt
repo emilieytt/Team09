@@ -37,3 +37,17 @@ Z:\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
 \\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form2.resources
 \\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
 \\vmware-host\Shared Folders\Emilie\OneDrive - NTNU\NTNU-Emilies MacBook Pro\Vår 2017\Objektorientert programmering\Prosjekt\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe.config
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.exe
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.xml
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.pdb
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.exe
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.pdb
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\Blod1.0.xml
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form1.resources
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Form2.resources
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1._0.Resources.resources
+\\vmware-host\Shared Folders\Documents\Team09\Blod1.1\Blod1.0\obj\Debug\Blod1.0.vbproj.GenerateResource.Cache

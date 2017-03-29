@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ny_blodgiver
+</name>
+</assembly>
+<members>
+<member name="T:ny_blodgiver.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ny_blodgiver.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ny_blodgiver.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ny_blodgiver.Form1.ValidatePassword(System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>Determines if a password is sufficiently complex.</summary>
+ <param name="pwd">Password to validate</param>
+ <param name="minLength">Minimum number of password characters.</param>
+ <param name="numUpper">Minimum number of uppercase characters.</param>
+ <param name="numLower">Minimum number of lowercase characters.</param>
+ <param name="numNumbers">Minimum number of numeric characters.</param>
+ <returns>True if the password is sufficiently complex.</returns>
+</member>
+</members>
+</doc>

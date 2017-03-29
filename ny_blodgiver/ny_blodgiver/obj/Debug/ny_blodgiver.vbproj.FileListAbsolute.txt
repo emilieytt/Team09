@@ -1,0 +1,40 @@
+C:\Users\Bruker\AppData\Local\Temporary Projects\ny_blodgiver\bin\Debug\ny_blodgiver.exe.config
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe.config
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.pdb
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.xml
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Form1.resources
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Resources.resources
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.exe
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.xml
+\\vmware-host\Shared Folders\Desktop\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.pdb
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe.config
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.exe
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.xml
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.pdb
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.pdb
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.xml
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.dll
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.xml
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbprojResolveAssemblyReference.cache
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Form1.resources
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Resources.resources
+Z:\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe.config
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.exe
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.xml
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.pdb
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Form1.resources
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.Resources.resources
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\obj\Debug\ny_blodgiver.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.exe
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.pdb
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\ny_blodgiver.xml
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Documents\Prosjekt %\ny_blodgiver\ny_blodgiver\bin\Debug\MySql.Data.xml
