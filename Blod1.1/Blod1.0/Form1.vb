@@ -1,7 +1,13 @@
 ﻿Imports MySql.Data.MySqlClient
 
+
+
 Public Class Form1
+<<<<<<< HEAD
+
+=======
     Private tilkobling As MySqlConnection
+>>>>>>> origin/master
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
